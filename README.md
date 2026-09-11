@@ -1,5 +1,5 @@
 # 外贸B2B & 社媒 AI技能库
-> 适配 Trae / WorkBuddy Agent 技能加载，面向铝压铸，不锈钢，bakeware 厨具出海业务
+> 适配 Trae / WorkBuddy Agent 技能加载，面向铝压铸厨具，不锈钢厨具，高压锅，bakeware ，厨具出海业务
 ## 技能清单
 ### 1. foreign-trade（外贸客户开发&转化技能）
 覆盖全链路外贸业务，支持B2B大客户开发。
